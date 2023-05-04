@@ -1,0 +1,9 @@
+p {
+	color:red;
+	text-align:right;
+}
+
+div p {
+	color:green;
+	text-align:left;
+}
